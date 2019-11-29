@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: ApiTestGenerics
+Version: 1.0.0
+Summary: Generic tool for api testing
+Home-page: UNKNOWN
+Author:  
+Author-email: 
+License: UNKNOWN
+Description: generic tool verious api testing
+Platform: UNKNOWN
+Classifier: Programming Language::Python::2.7
+Classifier: License:: :: 
+Classifier: Operationg Syster ::OS Independent
+Requires-Python: >=2.7

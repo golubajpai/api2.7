@@ -1,0 +1,7 @@
+README.md
+setup.py
+ApiTestGenerics.egg-info/PKG-INFO
+ApiTestGenerics.egg-info/SOURCES.txt
+ApiTestGenerics.egg-info/dependency_links.txt
+ApiTestGenerics.egg-info/requires.txt
+ApiTestGenerics.egg-info/top_level.txt
